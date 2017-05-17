@@ -1,0 +1,35 @@
+---
+title: "Horrors of archiving today"
+subtitle: "⚔<br/>Experiences from Komi"
+author: "Niko Partanen"
+date: "2017/05/19"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+background-image: url('superlinguo-1.png')
+background-position: 50% 50%
+background-size: 600px
+class: center, inverse
+
+???
+
+---
+
+# Why this matters?
+
+- In few years no high-end recorder will be recording just one track at the time
+    - Mainly a good development, but costs in extra layer of complexity
+- Lots of horror in the archiving process has been muted by relatively small datasets and minimal shared use -- this will not remain the case
+- "Hard drive space not an issue"
+
+
