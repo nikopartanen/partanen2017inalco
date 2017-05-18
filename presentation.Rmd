@@ -1,6 +1,6 @@
 ---
 title: "Horrors of archiving today"
-subtitle: "⚔<br/>Experiences from Komi"
+subtitle: "🗄<br/>Experiences from Komi"
 author: "Niko Partanen"
 date: "2017/05/19"
 output:
@@ -16,6 +16,97 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+We are moving fast to the world where
+
+- Archiving / data managing plans are increasingly demanded as part of project applications
+- Submitting the data to an archive is one of the requirements for project's succesful ending
+
+--
+
+Good to keep in mind that there **are no demands on**:
+
+- Quality or consistency of archived materials
+- Demands about the usability of this data
+- Guaranty that the access is granted
+- Security that the long term solution exists for data where access has to be negotiated
+
+--
+
+This is often combined with the interpretation that absolute closedness of the data is obligatory.
+
+---
+class: center, middle
+
+# archive ≠ backup
+
+---
+class: center, middle, inverse
+
+# ... but it kind of is!
+
+---
+class: center, middle
+
+## It is often argued that archive needs more structured data than mere backup of files (Austin 2010: 100) ...
+
+--
+
+## ... but one can still dump there hell of a mess with all fields marked as **missing** or **unknown**
+
+--
+
+## Even doing this is already ok!
+
+---
+class: center, middle
+
+## Why this is discussed now so much?
+
+---
+
+## Some reasons
+
+- Esp. digital data tends to disappear (every harddisk will eventually break)
+    - I think the lack of proper archiving started to happen already with C-cassettes, as the recording medium became readily available 
+- Researcher's get old and die, in some point someone starts to ask where are the recordings
+- Reproducibility of scientific work demands that the data is available
+- It is non-sensical that externally funded materials would be only in private use
+- There are signs that people would be interested about wider comparative research too
+    - For example, my work with Komi connects directly to research on Russian dialects and on Tundra Nenets
+
+--
+
+The most important reason is probably that ...
+
+--
+
+- ... Nobody has time and resources to sort someone else's data
+
+---
+class: center, middle
+
+If in Helsinki they are still going through M.A. Castrén's data ...
+
+---
+class: center, middle, inverse
+
+... then who is going to go through our recordings and when?
+
+---
+class: middle
+
+### The current situation demands software that is:
+
+- well functioning
+- stable
+- logical and intuitive to use
+- continuously maintained
+- thoroughly tested
+
+### Usable for everyone, possibilities to automatization for advanced users
+
+---
+
 background-image: url('superlinguo-1.png')
 background-position: 50% 50%
 background-size: 600px
@@ -25,11 +116,74 @@ class: center, inverse
 
 ---
 
+background-image: url('superlinguo-2.png')
+background-position: 50% 50%
+background-size: 600px
+class: center, inverse
+
+???
+
+---
+
+background-image: url('superlinguo-3.png')
+background-position: 50% 50%
+background-size: 600px
+class: center, inverse
+
+???
+
+---
+class: center
+
+- It is possible to archive with our current setup maybe ten recording sessions in a day
+    - I don't have nerves or energy left to more
+-    - Anyway the system usually gets stuck into some error in that point and you have to wait one more day
+ Once you dump everything to the archive it is next to impossible to do larger changes
+- Critical problem is that every action demands several clicks on a mouse
+    - With hundreds of files few mistakes will occur
+    - Impossible to control what is going on
+
+- The data in the archive starts to diverge from the version researcher(s) use
+
+---
+
+## More complex issues
+
+- We usually use several lapel microphones and a video camera
+- This results in large number of files that have to be synchronized
+- Older recordings often have all kind of noise that is also good to remove
+    - Or more exactly, one has to create distinct versions
+    - Ideally information about the alterations and cuts done to different files would also be archived
+- Movie industry uses concept called "Edit Decision List" to track this, but I'm not sure how equivalent in language documentation world would look like
+
+---
+class: middle, center, inverse
+
+# What if I just want to use one recorder?
+
+---
+
+<img src="https://www.bhphotovideo.com/images/images2500x2500/Roland_R_26_R_26_6_Channel_Digital_Field_821260.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<img src="https://www.bhphotovideo.com/images/images2500x2500/tascam_dr_60mkii_portable_recorder_for_dslr_1084690.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;">
+
+- Roland R26 records several WAV- iles for different microphone pairs etc.
+- Tascam DR60 records two WAV files simultaneously, one with lower levels
+- etc.
+
+One audio track per recording will disappear, and this is good.
+
+-- Some functionalities are just marketing tricks, but some genuinely help
+- However, the cost of this is additional post-processing phase for which there usually is little preparation
+
+--
+
 # Why this matters?
 
 - In few years no high-end recorder will be recording just one track at the time
-    - Mainly a good development, but costs in extra layer of complexity
-- Lots of horror in the archiving process has been muted by relatively small datasets and minimal shared use -- this will not remain the case
+  Lots of horror in the archiving process has been muted by relatively small datasets and minimal shared use -- this will not remain the case
 - "Hard drive space not an issue"
-
+    - Copying terabytes is still slow and annoying
 
