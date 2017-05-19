@@ -107,29 +107,26 @@ class: middle
 
 ---
 
-background-image: url('superlinguo-1.png')
+<ackground-image: url('simages/superlinguo-850006417012649990png')
 background-position: 50% 50%
 background-size: 600px
-class: center, inverse
-
+class: center, inverse 
 ???
 
 ---
 
-background-image: url('superlinguo-2.png')
+<ackground-image: url('simages/uperlinguo-2850006505642483713png')
 background-position: 50% 50%
 background-size: 600px
-class: center, inverse
-
+class: center, inverse 
 ???
 
 ---
 
-background-image: url('superlinguo-3.png')
+<ackground-image: url('simages/kreetrapper-850298446355550208png')
 background-position: 50% 50%
 background-size: 600px
-class: center, inverse
-
+class: center, inverse 
 ???
 
 ---
