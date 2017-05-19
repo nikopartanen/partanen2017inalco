@@ -175,7 +175,7 @@ class: middle, center, inverse
 
 One audio track per recording will disappear, and this is good.
 
--- Some functionalities are just marketing tricks, but some genuinely help
+- Some functionalities are just marketing tricks, but some genuinely help
 - However, the cost of this is additional post-processing phase for which there usually is little preparation
 
 --
@@ -183,7 +183,18 @@ One audio track per recording will disappear, and this is good.
 # Why this matters?
 
 - In few years no high-end recorder will be recording just one track at the time
-  Lots of horror in the archiving process has been muted by relatively small datasets and minimal shared use -- this will not remain the case
+  Lots of problems in the archiving process have been ignorable by relatively small datasets and minimal shared use
 - "Hard drive space not an issue"
     - Copying terabytes is still slow and annoying
+- Reusability and shared use demands some consistency
 
+---
+
+# Reusable materials, multipurpose data
+
+- Without clearly documented connections between the project output and the primary data these are mainly catch-words
+- Who has responsibility to ensure reusability is possible? Or easy?
+
+---
+
+# References
