@@ -1,7 +1,7 @@
 ---
 title: "Issues with archiving linguistic data"
 subtitle: "<br/>perspectives from work on Permic languages"
-author: "Niko Partanen (LATTICE-CNRS"
+author: "Niko Partanen (LATTICE-CNRS)"
 date: "2017/05/20"
 output:
   xaringan::moon_reader:
