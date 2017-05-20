@@ -1,6 +1,6 @@
 ---
-title: "Archiving linguistic data nowadays"
-subtitle: "<br/>perspectives from the Permic lands"
+title: "Issues with archiving linguistic data"
+subtitle: "<br/>perspectives from work on Permic languages"
 author: "Niko Partanen"
 date: "2017/05/20"
 output:
@@ -21,6 +21,10 @@ class: middle
 > "It takes ten years to fix the results of a three year project"
 
 .right[Random quote in Leipzig PhD student meeting, October 2016]
+
+???
+
+I think this should not be the case
 
 ---
 
@@ -201,6 +205,10 @@ class: center, middle, inverse
 
 ... then who is going to go through our recordings and when?
 
+--
+
+(that said, **we** could produce our data in entirely systematic manner to start with)
+
 ---
 class: middle
 
@@ -215,6 +223,7 @@ class: middle
 ### Usable for everyone, possibilities to automatization for advanced users
 
 - In principle archiving should be just a click away
+- Keeping everything structured should be part of the workflow on the field
 
 ---
 class: middle
