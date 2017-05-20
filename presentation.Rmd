@@ -121,7 +121,7 @@ Good to keep in mind that there **are no demands on**:
 
 --
 
-This is often combined with the interpretation that absolute closedness of the data is obligatory.
+This is often combined with the interpretation that absolute closedness of the data is obligatory (three year cycle doesn't help).
 
 ---
 
