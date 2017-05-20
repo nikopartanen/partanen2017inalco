@@ -1,7 +1,7 @@
 ---
 title: "Issues with archiving linguistic data"
 subtitle: "<br/>perspectives from work on Permic languages"
-author: "Niko Partanen"
+author: "Niko Partanen (LATTICE-CNRS"
 date: "2017/05/20"
 output:
   xaringan::moon_reader:
@@ -25,6 +25,14 @@ class: middle
 ???
 
 I think this should not be the case
+
+---
+
+class: middle
+
+> "It takes ten years to **fix** the results of a three year project"
+
+.right[Random quote in Leipzig PhD student meeting, October 2016]
 
 ---
 
@@ -55,6 +63,7 @@ class: center, inverse
 background-image: url('http://i.imgur.com/Lrn0BAm.png')
 background-position: 50% 50%
 background-size: 600px
+class: center
 
 ## Management of primary and derived data
 
@@ -73,7 +82,7 @@ background-position: 50% 50%
 background-size: 450px
 class: center, inverse
 
-## Shallow annotations
+## Shallow annotations (Gerstenberger Et. Al. 2017)
 
 ---
 ## Diverse outlets for diffent end users
@@ -118,7 +127,7 @@ This is often combined with the interpretation that absolute closedness of the d
 
 .center[## Current discourse]
 
-- It is often argued that archive needs more structured data than mere backup of files (Austin 2010: 100) ...
+- It is often argued that archive needs more structured data than mere backup of files (Austin 2006: 100) ...
 
 --
 
@@ -170,7 +179,7 @@ class: center, inverse
 ---
 class: center, middle
 
-## Why this is discussed now so much?
+## Why this is discussed so much?
 
 ---
 
@@ -178,9 +187,9 @@ class: center, middle
 
 - Esp. digital data tends to disappear (every harddisk will eventually break)
     - I think the lack of proper archiving started to happen already with C-cassettes, as the recording medium became readily available 
-- Researchers get old and die, eventually someone starts to ask where are the recordings
 - It is non-sensical that externally funded materials would be only in private use
     - Esp. with endangered languages
+- Researchers get old and die
 - There have been so many projects now that comparative work should be possible
 
 --
@@ -207,7 +216,7 @@ class: center, middle, inverse
 
 --
 
-(that said, **we** could produce our data in entirely systematic manner to start with)
+.footnote[that said, **we** must produce our data in entirely systematic manner to start with,</br>basically the materials have to be in state that someone can continue **working** with it]
 
 ---
 class: middle
@@ -220,7 +229,7 @@ class: middle
 - continuously maintained
 - thoroughly tested
 
-### Usable for everyone, possibilities to automatization for advanced users
+### Some possibilities to automatization for advanced users are needed
 
 - In principle archiving should be just a click away
 - Keeping everything structured should be part of the workflow on the field
@@ -244,9 +253,14 @@ class: middle
 
 - We usually use several lapel microphones and a video camera
 - This results in large number of files that have to be synchronized
-- Older recordings often have all kind of noise that is also good to remove
+- Older recordings often have all kind of noise that is also necessary to remove
     - Or more exactly, one has to create distinct versions
-    - Ideally information about the alterations and cuts done to different files would also be archived
+    - Ideally information about the alterations and cuts done to different files is also archived
+
+--
+.footnote[usually this information is not even exportable...]
+
+--
 - Movie industry uses concept called "Edit Decision List" to track this, but I'm not sure how equivalent in language documentation world would look like
 
 ---
@@ -258,13 +272,22 @@ class: center, inverse
 ## Original files have to be archived in some format too
 
 ---
+background-image: url('http://i.imgur.com/YwddUnT.png')
+background-position: 50% 50%
+background-size: 600px
+class: center
+
+## This results in one WAV file and one MPEG4 file
+
+---
 background-image: url('http://i.imgur.com/QlIacdR.png')
 background-position: 50% 50%
 background-size: 600px
 class: center, inverse
 
-## Without connecting files (EDL) they are pretty useless
+## Without connecting files (EDL) the original files are pretty useless
 
+.footnote[Also FCPX XML export archived with HTML/XML summary about the structure,</br>could also be written to ELAN file on new tiers?]
 
 ---
 class: middle, center, inverse
@@ -279,24 +302,14 @@ class: middle, center, inverse
 
 <p style="clear: both;">
 
-- Roland R26 records several WAV- iles for different microphone pairs etc.
+- Roland R26 records several WAV files for different microphone pairs etc.
 - Tascam DR60 records two WAV files simultaneously, one with lower levels
 - etc.
 
-One audio track per recording will disappear, and this is good.
+One audio track per recording will disappear eventually.
 
 - Some functionalities are just marketing tricks, but some genuinely help
 - However, the cost of this is additional post-processing phase for which there usually is little preparation
-
---
-
-# Why this matters?
-
-- In few years no high-end recorder will be recording just one track at the time
-  Lots of problems in the archiving process have been ignorable by relatively small datasets and minimal shared use
-- "Hard drive space not an issue"
-    - Copying terabytes is still slow and annoying
-- Reusability and shared use demands some consistency
 
 ---
 
@@ -304,7 +317,26 @@ One audio track per recording will disappear, and this is good.
 
 - Without clearly documented connections between the project output and the primary data these are mainly catch-words
 - Who has responsibility to ensure reusability is possible? Or easy?
+- Some technical issues have to be solved before the discussion can move forward
 
 ---
 
 # References
+
+Austin, Peter K. 2006. “Data and Language Documentation.” In Essentials of Language Documentation, edited by Jost Gippert, Ulrike Mosel and Nikolaus Himmelmann, 87–112. Trends in Linguistics. Studies and Monographs 178. Berlin: Mouton de Gruyter.
+
+Gerstenberger, Ciprian, Niko Partanen, and Michael Rießler. 2017. “Instant Annotations in Elan Corpora of Spoken and Written Komi, an Endangered Language of the Barents Sea Region.” In: *Proceedings of the 2nd Workshop on the Use of Computational Methods in the Study of Endangered Languages*, edited by Alexis Palmer and Mans Hulden. ACL Anthology. Baltimore, Maryland, USA: Association for Computational Linguistics. http://aclweb.org/anthology/.
+
+Videocorpora-website: http://videocorpora.ru/
+
+Permic Varieties corpus in TLA: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F
+
+---
+
+## Tweets cited
+
+Gawne, Lauren (superlinguo) 2017-04-06 https://twitter.com/superlinguo/status/850006417012649990
+
+Gawne, Lauren (superlinguo) 2017-04-06 https://twitter.com/superlinguo/status/850006505642483713
+
+kreetrapper 2017-04-07 https://twitter.com/kreetrapper/status/850298446355550208
